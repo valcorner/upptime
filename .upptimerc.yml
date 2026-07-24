@@ -1,27 +1,29 @@
-owner: valcorner 
-repo: upptime 
+owner: valcorner
+repo: upptime
+
 sites:
-  - name: Valcorner
+  - name: Valcorner Main Site
     url: https://www.valcorner.qzz.io
   - name: Valcorner Blog
     url: https://blog.valcorner.qzz.io
-  - name: Valcrner Account
+  - name: Valcorner Account
     url: https://accounts.valcorner.qzz.io
-  - name: Valcrner CDN
+  - name: Valcorner CDN
     url: https://cdn.valcorner.qzz.io
 
 status-website:
-    cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # 如果你使用 Cloudflare Pages 绑定了自定义域名，这里可以留空或填写你的域名
+  # cname: status.valcorner.qzz.io 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Valcorner Status
+  introTitle: "**Valcorner** 全球服务状态监控"
+  introMessage: 实时监控 Valcorner 核心组件的运行状态。数据由 GitHub Actions 驱动，通过 Cloudflare Pages 全球分发。
   navbar:
-    - title: Status
+    - title: 首页
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/valcorner/upptime
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# 监控频率：每 5 分钟执行一次
+workflowSchedule:
+  uptime: "*/5 * * * *"
