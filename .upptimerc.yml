@@ -2,7 +2,7 @@ owner: valcorner
 repo: upptime
 
 sites:
-  - name: Valcorner Main Site
+  - name: Valcorner Website
     url: https://www.valcorner.qzz.io
   - name: Valcorner Blog
     url: https://blog.valcorner.qzz.io
@@ -12,8 +12,7 @@ sites:
     url: https://cdn.valcorner.qzz.io
 
 status-website:
-  # 如果你使用 Cloudflare Pages 绑定了自定义域名，这里可以留空或填写你的域名
-  # cname: status.valcorner.qzz.io 
+    cname: status.valcorner.qzz.io 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Valcorner Status
   introTitle: "**Valcorner** 全球服务状态监控"
