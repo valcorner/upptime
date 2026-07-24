@@ -12,7 +12,7 @@ sites:
     url: https://cdn.valcorner.qzz.io
 
 status-website:
-    cname: status.valcorner.qzz.io 
+  cname: status.valcorner.qzz.io 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Valcorner Status
   introTitle: "**Valcorner** 全球服务状态监控"
