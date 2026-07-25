@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.valcorner.qzz.io.ico",
     "slug": "valcorner-website",
     "status": "down",
-    "uptime": "22.19%",
-    "uptimeDay": "22.19%",
-    "uptimeWeek": "22.19%",
-    "uptimeMonth": "22.19%",
-    "uptimeYear": "22.19%",
-    "time": 26,
-    "timeDay": 26,
-    "timeWeek": 26,
-    "timeMonth": 26,
-    "timeYear": 26,
+    "uptime": "0.01%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 36,
+    "timeDay": 46,
+    "timeWeek": 36,
+    "timeMonth": 36,
+    "timeYear": 36,
     "dailyMinutesDown": {
-      "2026-07-24": 1
+      "2026-07-25": 208,
+      "2026-07-24": 1341
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.valcorner.qzz.io.ico",
     "slug": "valcorner-blog",
     "status": "down",
-    "uptime": "0.74%",
-    "uptimeDay": "0.74%",
-    "uptimeWeek": "0.74%",
-    "uptimeMonth": "0.74%",
-    "uptimeYear": "0.74%",
-    "time": 24,
-    "timeDay": 24,
-    "timeWeek": 24,
-    "timeMonth": 24,
-    "timeYear": 24,
+    "uptime": "0.01%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 33,
+    "timeDay": 53,
+    "timeWeek": 33,
+    "timeMonth": 33,
+    "timeYear": 33,
     "dailyMinutesDown": {
-      "2026-07-24": 28
+      "2026-07-25": 208,
+      "2026-07-24": 1368
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.valcorner.qzz.io.ico",
     "slug": "valcorner-account",
     "status": "down",
-    "uptime": "0.75%",
-    "uptimeDay": "0.75%",
-    "uptimeWeek": "0.75%",
-    "uptimeMonth": "0.75%",
-    "uptimeYear": "0.75%",
-    "time": 23,
-    "timeDay": 23,
-    "timeWeek": 23,
-    "timeMonth": 23,
-    "timeYear": 23,
+    "uptime": "0.01%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 30,
+    "timeDay": 46,
+    "timeWeek": 30,
+    "timeMonth": 30,
+    "timeYear": 30,
     "dailyMinutesDown": {
-      "2026-07-24": 27
+      "2026-07-25": 208,
+      "2026-07-24": 1368
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.valcorner.qzz.io.ico",
     "slug": "valcorner-cdn",
     "status": "down",
-    "uptime": "0.74%",
-    "uptimeDay": "0.74%",
-    "uptimeWeek": "0.74%",
-    "uptimeMonth": "0.74%",
-    "uptimeYear": "0.74%",
-    "time": 35,
-    "timeDay": 35,
-    "timeWeek": 35,
-    "timeMonth": 35,
-    "timeYear": 35,
+    "uptime": "0.01%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 44,
+    "timeDay": 62,
+    "timeWeek": 44,
+    "timeMonth": 44,
+    "timeYear": 44,
     "dailyMinutesDown": {
-      "2026-07-24": 27
+      "2026-07-25": 208,
+      "2026-07-24": 1368
     }
   }
 ]
