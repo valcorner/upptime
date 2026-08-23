@@ -1,7 +1,7 @@
 url: https://accounts.valcorner.qzz.io
-status: up
-code: 200
-responseTime: 483
-lastUpdated: 2026-08-23T23:20:28.697Z
+status: down
+code: 500
+responseTime: 97
+lastUpdated: 2026-08-23T23:58:54.763Z
 startTime: 2026-07-24T01:11:57.618Z
 generator: Upptime <https://github.com/upptime/upptime>
